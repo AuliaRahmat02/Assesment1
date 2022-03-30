@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assement1</string>
+    <string name="Judul">Hitung Ukuran Baju</string>
+    <string name="Lebar">Lebar kaos</string>
+    <string name="panjang">Panjang kaos</string>
+    <string name="Ukuran">Ukuran</string>
+    <string name="ukuran_anda">Ukuran Anda</string>
+</resources>
